@@ -39,17 +39,7 @@ As a Full Stack Developer, I possess a comprehensive skill set that covers both 
 - **Build Tools:** Webpack, Gulp
 - **Task Runners:** Grunt
 
-## 📁 Project Highlights
 
-### Project A: E-commerce Platform
-- Designed and implemented the frontend using React.js.
-- Developed RESTful APIs using Node.js and Express.js.
-- Integrated with MongoDB for data storage.
-
-### Project B: Task Management App
-- Utilized Angular for the frontend and Spring Boot for the backend.
-- Implemented user authentication and authorization.
-- Integrated PostgreSQL for efficient data management.
 
 ## 📧 Contact Information
 

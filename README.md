@@ -46,8 +46,8 @@ As a Full Stack Developer, I possess a comprehensive skill set that covers both 
 If you're interested in collaboration or have any inquiries, feel free to reach out:
 
 - **Email:** coder080302@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sanchit-tripathi-b894b4228/)
-- **GitHub:** [Your GitHub Profile](https://github.com/codezen879)
+- **LinkedIn:** [SANCHIT](https://www.linkedin.com/in/sanchit-tripathi-b894b4228/)
+- **GitHub:** [SANCHIT](https://github.com/codezen879)
 
 Thank you for considering my profile. I look forward to potential opportunities and collaborations!
 

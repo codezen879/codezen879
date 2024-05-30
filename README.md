@@ -50,4 +50,4 @@ If you're interested in collaboration or have any inquiries, feel free to reach 
 - **GitHub:** [SANCHIT](https://github.com/codezen879)
 
 Thank you for considering my profile. I look forward to potential opportunities and collaborations!
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=codezen879)](https://git.io/streak-stats)
